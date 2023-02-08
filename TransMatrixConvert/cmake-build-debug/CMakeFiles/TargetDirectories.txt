@@ -1,0 +1,3 @@
+C:/Users/v/Desktop/TransMatrixConvert-main/TransMatrixConvert/cmake-build-debug/CMakeFiles/TransMatrixConvert.dir
+C:/Users/v/Desktop/TransMatrixConvert-main/TransMatrixConvert/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/v/Desktop/TransMatrixConvert-main/TransMatrixConvert/cmake-build-debug/CMakeFiles/rebuild_cache.dir
