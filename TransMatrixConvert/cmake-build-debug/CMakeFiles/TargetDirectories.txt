@@ -1,3 +1,0 @@
-C:/Users/v/TransMatrixConvert/cmake-build-debug/CMakeFiles/matrix_to_euler.dir
-C:/Users/v/TransMatrixConvert/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/v/TransMatrixConvert/cmake-build-debug/CMakeFiles/rebuild_cache.dir
